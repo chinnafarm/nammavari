@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551105467060",
+    "project_id": "namma-varis",
+    "storage_bucket": "namma-varis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551105467060:android:759f3a6c162623f28ebde1",
+        "android_client_info": {
+          "package_name": "com.example.nama_vari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3CuUm7ACY7BPOcUoRFRxVudhrwEm5zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
